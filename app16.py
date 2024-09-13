@@ -1,10 +1,3 @@
-matplotlib==3.6.3
-numpy==1.23.5
-pandas==1.5.2
-streamlit==1.16.0
-plotly==5.11.0
-setuptools>=58.0.0
-
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
